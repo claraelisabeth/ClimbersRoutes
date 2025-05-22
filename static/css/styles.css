@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(247, 242, 233); 
+    /* background-image: linear-gradient(to top, rgb(22, 23, 23), rgb(34, 57, 87)); */
+    /* overflow: hidden; */
+}
+
+body {
+    font-family: Georgia, serif;
+    margin: 1em;
+}
+
+#header {
+    z-index: 999;
+    position: left;
+    top: 10px;
+    margin-left: 30px;
+    font-size: xx-large;
+    color: rgb(78, 110, 77); 
+    /* font-weight: bold; */
+}
+
+#racoon-logo {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+#user-name {
+    position: absolute;
+    top: 25px;
+    right: 30px;
+    margin-right: 70px;
+    color: rgb(78, 110, 77); 
+    font-size: 16px;
+}
+
+.overview-box {
+    position: absolute;
+    border : 2px solid black;
+    top: 70px;
+
+    width: 30vw;
+    height: 30vh;
+}
+
+#overview-text { 
+    padding : 20px;
+    font-size: 16px;
+}
+
+.main-box {
+    position: absolute;
+    top: 70px;
+    right: 25px;
+
+    width: 65vw;
+    height: 50vh;
+}
+
+#main-graph {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#change-parameters {
+    position: absolute;
+    border : 2px solid black;
+    top: 340px;
+
+    width: 30vw;
+    height: 55vh;
+}
+
+#normal-text {
+    padding : 20px;
+}
+
+#style_dropdown, #climber_dropdown, #route_dropdown {
+    padding : 10px;
+    width:40%;
+    left : 30px;
+}
+
+.Select-control{
+    background-color: rgb(213, 184, 149);
+    border-radius:20px;
+    border: none;
+    box-shadow: none;
+}
+
+.Select-control--is-focused {
+    background-color: rgb(213, 184, 149) !important;
+    border-radius:20px;
+    border: none;
+    box-shadow: none !important; 
+}
+
+.Select-menu {
+    background-color: rgb(213, 184, 149) !important;
+    border-radius: 20px !important;
+    box-shadow: none;  
+    border: none !important;
+}
+
+.Select-menu-list {
+    background-color: rgb(213, 184, 149) !important;
+    border-radius: 20px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.Select-placeholder,
+.Select-single-value {
+    color: rgb(113, 80, 58) !important;
+    font-size: 16px;
+    background-color: rgb(213, 184, 149);
+}
+
+#main-graph {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#spy-not-sorted {
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 820px;
+    right: 25px;
+
+    width: 33vw;
+    height: 50vh;
+}
+
+#spy-sorted-byRow {
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 440px;
+    right: 500px;
+
+    width: 33vw;
+    height: 50vh;
+}
+
+#spy-sorted-byColumn {
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 440px;
+    right: 25px;
+
+    width: 33vw;
+    height: 50vh;
+}
+
+#barplot_styles {
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 820px;
+    right: 500px;
+
+    width: 33vw;
+    height: 50vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
