@@ -1,0 +1,701 @@
+id,name,gear_style,country,orientation,region,crag,grade,grade_clean,grade_system
+6202342029,"Gimpeln, die pimpeln",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:5-,5-,UIAA
+6202341930,"Schlangen, die sangen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:7-,7-,UIAA
+6202341831,"Affen, die gaffen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:8,8,UIAA
+6202341732,Mäuse mit Läuse,Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:6,6,UIAA
+6202341615,"Hasen, die grasen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:6,6,UIAA
+6202341516,"Wanzen, die tanzen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:7+,7+,UIAA
+6202341402,"Asseln, die rasseln",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:7+,7+,UIAA
+6202341303,"Zecken, die necken",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:7+,7+,UIAA
+6202341201,"Ziegen, die liegen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:6+,6+,UIAA
+3286129137,"Eulen, die heulen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:1+,1+,UIAA
+6202341102,"Schnecken, die schlecken",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:4-,4-,UIAA
+6202341003,"Geißen, die sch...",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:3+,3+,UIAA
+6202340904,"Spinnen, die singen",Sport,Austria,Ost,Rechter Nordgrat,Unterer Nordgrat,UIAA:3,3,UIAA
+1363036833,Born to be bad,Sport,Austria,Ost,Thalhofergrat,Bachwand,UIAA:8-,8-,UIAA
+1363036722,Hansi bitte Staft,Sport,Austria,Ost,Thalhofergrat,Bachwand,UIAA:9-,9-,UIAA
+7045216413,Klapf Umrundung,Boulder,Austria,Ost,Thalhofergrat,Klapf,{FB} 6A,6A,FB
+2360225301,Asfinag,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:5-,5-,UIAA
+2360225196,Crash,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6-,6-,UIAA
+2360225091,Die wilde Hetz,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6,6,UIAA
+2360224977,Auslage,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6,6,UIAA
+2360224872,Der Blechschaden,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6+,6+,UIAA
+2360224755,Der Autostopper,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6,6,UIAA
+2360224638,Faulenzer,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6+,6+,UIAA
+2360224530,Faule Erbsen,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:7,7,UIAA
+2360224425,Erbsensuppe,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:7+,7+,UIAA
+2360224320,Die Prinzessin auf der Erbse,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:7-,7-,UIAA
+2360224215,Bachstelze,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:4+,4+,UIAA
+2360224110,Bachmücke,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:4-,4-,UIAA
+2360224002,Normalweg,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:2,2,UIAA
+2360223885,Blindschleiche,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:3+,3+,UIAA
+2360223780,Kröte,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:4-,4-,UIAA
+2360223675,Laubfrosch,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:4-,4-,UIAA
+2360223570,Heuschrecke,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6,6,UIAA
+2360223465,Prost,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:7-/7,7-,UIAA
+2360223339,Scheisswind,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6,6,UIAA
+2360223222,Nose,Sport,Austria,Ost,Thalhofergrat,Klapf,UIAA:6+,6+,UIAA
+1361768178,Turmsteigverschneidung,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:4+,4+,UIAA
+1361768067,Turmlos,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:5,5,UIAA
+1361767956,s'Kantele,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:5,5,UIAA
+418969908,Grottenmolch,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6,6,UIAA
+1361765949,Grottendolm,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7,7,UIAA
+1361765838,"A ""rechte"" Verzweiflung",Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:9-,9-,UIAA
+418969809,Ein Wixer in der Arktis,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:10+,10+,UIAA
+418969704,Hobby extra,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:11-,11-,UIAA
+1361762331,Nichtraucherzone,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:9-,9-,UIAA
+1361762220,Sphere,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:8+/9-,8+,UIAA
+9836310642,Schwabbel Hulk,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:9-,9-,UIAA
+418969605,The Abyss,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:9-,9-,UIAA
+9836302080,Die Perle des Ostens,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:9,9,UIAA
+418969506,Gastarbeiter,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:8,8,UIAA
+418969407,Teamarbeit,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:8+,8+,UIAA
+418972590,Ostwandschocker,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:8,8,UIAA
+1361760954,Gruselkabinett,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7,7,UIAA
+418969308,Gänsehaut,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7,7,UIAA
+418975287,Osterei,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:8-,8-,UIAA
+418969203,Osterhasi,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6-,6-,UIAA
+1286202387,Osterbraten,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7-,7-,UIAA
+1286203419,Palmwedel,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7+,7+,UIAA
+1286204469,Staubwedel,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:7/7+,7,UIAA
+1286205537,Sargnagel,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6,6,UIAA
+1361759571,Notnagel,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:5+,5+,UIAA
+667847241,Leisten-Bruch,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6,6,UIAA
+667847142,Fels-Sturz,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6,6,UIAA
+1361739831,3-Freunde-Steig 7.SL,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:4-,4-,UIAA
+1361739720,1-Freund-Steig,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:6-,6-,UIAA
+1361739609,3-Freunde-Steig 6.SL,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:4,4,UIAA
+1361739498,2-Freunde-Steig,Sport,Austria,Ost,Thalhofergrat,Obere Ostwand,UIAA:5,5,UIAA
+7483732863,Fitze Fatze,Boulder,Austria,Ost,Thalhofergrat,Fitze Fatze,FB:6B+,6B+,FB
+3229205715,Schokoladenpudding,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5,5,UIAA
+419332917,Schoko intensiv,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6+,6+,UIAA
+419333016,Es geht weiter Schoko,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6+,6+,UIAA
+419333115,Schokokamin,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6+,6+,UIAA
+1361947089,Schoko-Laden-Bauer,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7+,7+,UIAA
+419332620,Thaliplatte,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+1361944908,Schokokante,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6+,6+,UIAA
+1361944797,Schokowampe,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6,6,UIAA
+419332818,Schokorampe,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+419332719,Thaliriss,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7+/8-,7+,UIAA
+1361940399,Thalitastisch,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7-,7-,UIAA
+1361940288,Thalistrophal,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:8-,8-,UIAA
+1361940183,Östliche Fensterrampe,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5,5,UIAA
+1361940072,Thaliffizil,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9-,9-,UIAA
+1361939961,Thalid(yn)amisch,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9-,9-,UIAA
+1361939850,Thalidach,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9,9,UIAA
+419326695,UTA-Steig,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9-,9-,UIAA
+419326596,Wild Palms,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9,9,UIAA
+419326497,Voodoo,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:9-,9-,UIAA
+419326398,Grisu,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+419326299,Rumpelstilzchen,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:8,8,UIAA
+419326200,Betthupferl,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+419326101,Augenblick des Glücks,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:8-,8-,UIAA
+419326002,Single Man,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7+,7+,UIAA
+1361938401,Ab durch die Mitte,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:8,8,UIAA
+419325903,Die wahre Komplizierte,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+419325798,Grizzly,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7-,7-,UIAA
+419325699,Grantige Laus,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+419325600,Annys delikti,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7-,7-,UIAA
+419325501,Oberer Annysteig,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5+,5+,UIAA
+1361935527,Bruch zum Loch,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+1361935416,Fluch zum Bruch,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+1361935305,"O je mi ne, des is net sche!",Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+513538764,Bettsteigerl,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4+,4+,UIAA
+513537939,Gute-Nacht-Geschichte,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5,5,UIAA
+1138705359,Frühlingsmorgen,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4+,4+,UIAA
+419325402,Herbstnacht,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5-,5-,UIAA
+513534945,Zubringer,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4+,4+,UIAA
+513533811,Potz-Blitz,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+513532161,Räuber Hotzenplotz,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4+,4+,UIAA
+513530775,Alibabas Räubergeschichten,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5-,5-,UIAA
+1141967499,Alibaba und das Sesambrötchen,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4,4,UIAA
+1361932536,3-Freunde-Steig 3.SL,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:2+,2+,UIAA
+1361932431,Gratausstieg gerade Variante,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:3-,3-,UIAA
+1361932326,Grataussteig linke Variante,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:3-,3-,UIAA
+419325303,Sesam öffne dich,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:4+,4+,UIAA
+419325204,Sesambackstube,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5+,5+,UIAA
+419325105,Sesamjoint,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:7,7,UIAA
+1361929947,3-Freunde-Steig 2.SL,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5-,5-,UIAA
+1361929836,3-Freunde-Variante,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:5+,5+,UIAA
+419324907,Himmelsleiter,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6,6,UIAA
+419324808,Direkter Himmelsfinger,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6+,6+,UIAA
+419325006,Himmelsfinger,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:6-,6-,UIAA
+1361837331,3-Freunde-Steig 1. SL,Sport,Austria,Ost,Thalhofergrat,Untere Ostwand,UIAA:2-,2-,UIAA
+7938778680,"Gandalf, der Zauberer",Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:4,4,UIAA
+7938778779,"Legolas, der Elb",Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:5-,5-,UIAA
+7938778878,Pippin,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:4-,4-,UIAA
+7938778977,Merry,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:4+,4+,UIAA
+7938779076,"Aragorn, der König",Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:7+,7+,UIAA
+7938779175,"Gimli, der Zwerg",Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:6,6,UIAA
+7938779274,Bilbo-Variante,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:5,5,UIAA
+7938779373,Frodo-Ausstieg,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:6,6,UIAA
+7938779466,Sam-Ausstieg,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:2+,2+,UIAA
+7938779559,Auenland,Sport,Austria,Ost,Thalhofergrat,Auenland,UIAA:1+,1+,UIAA
+642374118,Let it be,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7,7,UIAA
+3340088073,Yellow Submarine,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:9-,9-,UIAA
+642374217,Très dure - Drehtür,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7+,7+,UIAA
+642374316,Keep Smiling,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:8+,8+,UIAA
+3340087956,Wer das Grauen sucht,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7,7,UIAA
+3340087845,Bin schon wieder weg,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:8-,8-,UIAA
+3340087734,"Wer suchet, der findet",Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7+,7+,UIAA
+3340087623,Schneetreiben,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7,7,UIAA
+3340087512,Rackerling,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7-,7-,UIAA
+642374415,Blutiger Samstag,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:6+,6+,UIAA
+3340087401,Die schmale Verschneidung,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:6+,6+,UIAA
+3340087290,Der schmale Grat,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:4+,4+,UIAA
+3340087191,Ho-Ruck-Verschneidung,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:5-,5-,UIAA
+3340087080,Die Sonntagspredigt,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:6+,6+,UIAA
+3340086969,Die Moralpredigt,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:7,7,UIAA
+3340086858,Der Beichtstuhl,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:6-,6-,UIAA
+3340086747,Die Kollekte,Sport,Austria,Ost,Thalhofergrat,Thalhoferkanzel,UIAA:5-,5-,UIAA
+1134373281,Hättest du geschwiegen ...,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5,5,UIAA
+1134373170,"Reden ist Silber, ...",Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5,5,UIAA
+1134373059,Eckzahn,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5+,5+,UIAA
+1134372948,Backenzahn,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5+,5+,UIAA
+1134372837,Eichkatzerl lachen doof,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:8,8,UIAA
+1134372726,"""Original""",Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:7-,7-,UIAA
+1134372615,Originell,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:7,7,UIAA
+1134372504,Prusikanstieg,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:4+,4+,UIAA
+1134372393,Ostwand im Westen,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5+,5+,UIAA
+1134372282,Ostriss,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:5+,5+,UIAA
+1134372171,Leisten-Schnapp-Quälgeist,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:7+,7+,UIAA
+1134372060,Löcher-Blockier-Quälgeist,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:8,8,UIAA
+1134371949,Annyanstieg,Sport,Austria,Ost,Thalhofergrat,Philosophenzahn,UIAA:3-,3-,UIAA
+642370110,Skorpiongrat,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:2+,2+,UIAA
+642370794,Skorpionwand,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:5+,5+,UIAA
+642370893,Silvanakamin,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:4+,4+,UIAA
+642370992,Uferlos,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:7+,7+,UIAA
+642371091,Trinkratkante,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:6,6,UIAA
+642371190,Donnerwetter,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:6,6,UIAA
+642371289,Neue Trinkratplatte,Sport,Austria,Ost,Thalhofergrat,Trinkratzahn,UIAA:6+,6+,UIAA
+642361836,Henkel trocken,Boulder,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,{FB} 7A,7A,FB
+642342198,"Ende gut, alles gut",Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7-,7-,UIAA
+642343332,Vom Sturm verweht,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642344064,Venus,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642344730,Jupiter,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6-,6-,UIAA
+642345828,Morgenstern,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6-,6-,UIAA
+642349680,Abendstern,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7+,7+,UIAA
+642349779,Abel,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7,7,UIAA
+642349878,Five finger exercise,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7,7,UIAA
+642349977,Kain,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642350076,Platzangst inkludiert,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7+,7+,UIAA
+642350175,Alpin aktuell,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:8-,8-,UIAA
+642350274,Wanderbare Heimat,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7-,7-,UIAA
+642350373,Krampfhaft,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:5+,5+,UIAA
+642350472,Klettern light,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6-,6-,UIAA
+642350571,Frühjahrsmüdigkeit,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642354813,Im Winter verblödet,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642354912,Das Mädchen aus 1001 Nacht,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6,6,UIAA
+642355011,Für kleine Mädchen,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:5+,5+,UIAA
+642355110,Pacem,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6-,6-,UIAA
+642355209,Platzangst im Hendlstall,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7,7,UIAA
+642355308,Hackerling,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7-,7-,UIAA
+642355407,Superfeucht,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:8+,8+,UIAA
+642355506,Für dich Klausi,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:8-,8-,UIAA
+642355605,Damokles,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6+,6+,UIAA
+642355704,Ohnmacht in mir,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:7-,7-,UIAA
+642355803,Nix,Sport,Austria,Ost,Thalhofergrat,Obere Thalhoferwand,UIAA:6+,6+,UIAA
+642365979,Kurze Gaude,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:7,7,UIAA
+642366078,Sternschnuppe,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:7-,7-,UIAA
+642366177,Männer!,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:7,7,UIAA
+642366276,Vogelstimmen,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:7+,7+,UIAA
+642366375,Engpass-Syndrom,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:8-,8-,UIAA
+642366495,Glühwürmchen,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:7,7,UIAA
+642366609,Fulmen ex mante,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:8-,8-,UIAA
+642366708,Startbahn,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:8-,8-,UIAA
+642366807,Zauberflöte,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:6,6,UIAA
+1135301730,Papageno,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:6-,6-,UIAA
+1362944472,Sarastro,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:5+,5+,UIAA
+1362944589,Tamino,Sport,Austria,Ost,Thalhofergrat,Zentrale Thalhoferwand,UIAA:4-,4-,UIAA
+1361532315,Home run,Boulder,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,{FB} 6C,6C,FB
+946006302,Rattatouille-Verschneidung,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:5,5,UIAA
+447780153,Mäusekönig,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:5+,5+,UIAA
+946008795,Mäusejagd,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:5,5,UIAA
+673257453,Mäusefutter,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6,6,UIAA
+946004496,Mäusefalle,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:5-,5-,UIAA
+667262559,Auf die Maus gekommen,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6,6,UIAA
+447780252,Mäusehochzeit,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6+,6+,UIAA
+447780351,Saurer Regen,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6+,6+,UIAA
+447780450,Ökopoli,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7,7,UIAA
+447780648,Mit neuer Kraft,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7+,7+,UIAA
+447780549,Gottardi-Riss,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6+,6+,UIAA
+447780747,Falco Live,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7+,7+,UIAA
+447780846,Amerika,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:8-,8-,UIAA
+447780945,Jeanny,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7+,7+,UIAA
+447781044,Amadeus,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:8-,8-,UIAA
+447781143,Morgentau,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7+,7+,UIAA
+447781242,Morgengrauen,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7+,7+,UIAA
+447781341,Hulmeister,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7-,7-,UIAA
+447781440,Don Albatros,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7-,7-,UIAA
+447781539,Don Roberto,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6+,6+,UIAA
+447781638,Don Rosl,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7,7,UIAA
+447781737,Don Carlos,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7-,7-,UIAA
+447781836,Kuh Rosl,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7-,7-,UIAA
+447781935,Eine Kuh...,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:6+,6+,UIAA
+447782034,Coming home,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:7-,7-,UIAA
+1361528448,Der Kommissar,Sport,Austria,Ost,Thalhofergrat,Untere Thalhoferwand,UIAA:5-,5-,UIAA
+418962234,Stimme des Windes,Boulder,Austria,Ost,Westwand,Obere Westwand,{FB} 7B,7B,FB
+418966320,"Mein Gott, Anny!",Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7,7,UIAA
+418962852,Sturmwarnung,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7+,7+,UIAA
+1355387286,Malaria 3. SL,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6+,6+,UIAA
+418962753,Wirbelwind,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6+,6+,UIAA
+418962654,Windhose,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6+,6+,UIAA
+1355387169,3-Freunde-Steig 5. SL,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:1+,1+,UIAA
+1355387052,3-Freunde-Steig 4. SL,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5-,5-,UIAA
+1355386935,3-Freunde Spezial,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5+,5+,UIAA
+1355386824,Westl. Fensterrampe,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:1,1,UIAA
+418962450,Soultime,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:8+,8+,UIAA
+418962339,Äolsharfen,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:11-,11-,UIAA
+418962129,Aiolos,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:10+,10+,UIAA
+1355370285,Love the wind,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:10,10,UIAA
+418962030,Love me tender,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:10-,10-,UIAA
+418961931,Techniker,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7+,7+,UIAA
+1355370168,Taktiker,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7+,7+,UIAA
+418959465,Schabernack,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7+,7+,UIAA
+1355370051,Meister,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7-,7-,UIAA
+1355369934,Geselle,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6-,6-,UIAA
+1355369814,Lehrling,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:4,4,UIAA
+1355369697,Bierwampe,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:8+,8+,UIAA
+1355369580,Brauhauskante,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7-,7-,UIAA
+1355369463,Malzriss,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5+,5+,UIAA
+1355369346,Gott erhalts-Platte,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5+,5+,UIAA
+1355369229,Hopfenriss,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:3+,3+,UIAA
+1355369112,Kakadus,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6,6,UIAA
+1355368995,Klettersardine,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5+,5+,UIAA
+1355368878,Mauerläufer,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7-,7-,UIAA
+1355368761,Gecko,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:9-,9-,UIAA
+1355368644,Schrecksekunde,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:6+,6+,UIAA
+1355368527,Glückstag,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:7,7,UIAA
+1355368410,Abseits aller Ängste,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:5-,5-,UIAA
+1355368299,Prusikrinne,Sport,Austria,Ost,Westwand,Obere Westwand,UIAA:2,2,UIAA
+315141012,Seitenwind,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:4,4,UIAA
+1355358666,Malaria 2. SL,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:5,5,UIAA
+1355358783,Mittlerer Annysteig,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:5+,5+,UIAA
+315134286,Höhenluft,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:5+,5+,UIAA
+316254186,Cholera,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8-,8-,UIAA
+316254285,Typhus,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8-,8-,UIAA
+316254384,Malaria,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8-,8-,UIAA
+316254483,Ungeduld des Herzens,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8+,8+,UIAA
+1355358549,Kinderzimmer,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:9-,9-,UIAA
+316254582,Saustall,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:9-,9-,UIAA
+316254681,Saxifraga,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:10-,10-,UIAA
+316254780,Zen,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:10-,10-,UIAA
+316254879,Zen light,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8,8,UIAA
+316254978,Um ein Haar,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8+,8+,UIAA
+316255077,Complement Fou,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8,8,UIAA
+316255176,Novel design,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:9-,9-,UIAA
+316255275,Tractatus logico,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:8+,8+,UIAA
+316255374,"Soit, soit",Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:6+,6+,UIAA
+316255473,Tommy is bad,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:7+,7+,UIAA
+316255572,Tommy can you hear me?,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:7-,7-,UIAA
+316255671,Tommy be nice,Sport,Austria,Ost,Westwand,Untere Westwand,UIAA:7,7,UIAA
+315132369,Welcome to Thaligrat,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6,6,UIAA
+315132468,Seitensprung,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:4,4,UIAA
+315132567,Quicky,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:4,4,UIAA
+1355168649,Zu kurz geraten,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:5,5,UIAA
+315132666,Kein Höhepunkt,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:4+,4+,UIAA
+1355168760,Rundherum,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:5+,5+,UIAA
+315132765,Maulwurf,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:4+,4+,UIAA
+315132894,Wühlmaus,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6+,6+,UIAA
+315132999,Thy(ranno Saurus)rex,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6,6,UIAA
+315133395,Maturaprüfung,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6,6,UIAA
+315133494,Bachelor-Arbeit,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7,7,UIAA
+315133098,Christasteig,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:5,5,UIAA
+315133197,Maturavorbereitung,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6+,6+,UIAA
+315133296,Maturavorbereitung direkt,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:6+,6+,UIAA
+315133593,Troubadour,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7,7,UIAA
+315133692,Aufi muass i,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7,7,UIAA
+315133791,Herbsttraum,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7+,7+,UIAA
+315133890,Fasten seat belts,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7,7,UIAA
+1355168871,Monster-Anny,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:5+,5+,UIAA
+315134088,Struma ade,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7,7,UIAA
+315133989,Direkter Annysteig,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:7-,7-,UIAA
+315134187,Annysteig,Sport,Austria,Ost,Thalhofergrat,Südwestwand,UIAA:5+,5+,UIAA
+10444135938,End(e) gut - Alles gut,Sport,Austria,Ost,Wienerwald (IV),Bischofsmütze,UIAA:5,5,UIAA
+10444135839,Hermisteig,Sport,Austria,Ost,Wienerwald (IV),Bischofsmütze,UIAA:4+,4+,UIAA
+10444135740,Der Anfang vom End`,Sport,Austria,Ost,Wienerwald (IV),Bischofsmütze,UIAA:4+,4+,UIAA
+3453229281,Blau,Trad,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:2,2,UIAA
+3453229194,Gelb,,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:3-,3-,UIAA
+3453229107,Variante,,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:4-,4-,UIAA
+3453229020,Blau,,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:3-,3-,UIAA
+3453228933,Wulst,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:7+,7+,UIAA
+3453228846,Rot,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:4,4,UIAA
+3453228759,Gelbe Querung,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:4+,4+,UIAA
+3453228669,Dächer,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:7-,7-,UIAA
+3453228579,TVN,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:6,6,UIAA
+3453228492,Gelb Rechts,,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:4,4,UIAA
+3453228405,Gelb Mitte,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:3+,3+,UIAA
+3453228318,Gelb links,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:3+,3+,UIAA
+3453228231,Variante,Sport,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:4,4,UIAA
+3453228144,Blau - Spaziergang,Trad,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:1,1,UIAA
+3453228057,Blau - Waldlauf,Trad,Austria,Ost,Lindkogel,Klettergarten - Bad Vöslau,UIAA:1,1,UIAA
+7549892502,Dämon,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:4A,4A,FB
+7549892391,Gute Fee,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:6A,6A,FB
+7549892280,Feendrache,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:5C,5C,FB
+7549892169,Wiedergeburt,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:6B+,6B+,FB
+7549892052,Flug zum Feind,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:6C,6C,FB
+7549891941,German Wings,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:6A+,6A+,FB
+7549891800,1911/86,Boulder,Austria,Ost,Scheitergraben Mitte,Block 5,FB:6A,6A,FB
+7549839753,Verzwickt,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,FB:6B+/C,6B+,FB
+7549839648,Bau Haus,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,FB:4B,4B,FB
+7549839543,Alaul,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,FB:6A,6A,FB
+7549839438,Bau Sau,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,FB_ALT:3+,3+,FB_ALT
+7549839333,Bau Max,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,FB:5A,5A,FB
+7549839222,Bau,Boulder,Austria,Ost,Scheitergraben Mitte,Block 4,{FB} 5B,5B,FB
+7549743855,Big Listle,Boulder,Austria,Ost,Scheitergraben Mitte,Block 3,FB:7A,7A,FB
+7549743744,Listle,Boulder,Austria,Ost,Scheitergraben Mitte,Block 3,FB:5A,5A,FB
+7549743639,Grauer Morgen,Boulder,Austria,Ost,Scheitergraben Mitte,Block 3,FB:6C+,6C+,FB
+7549743534,Namenlos 1,Boulder,Austria,Ost,Scheitergraben Mitte,Block 3,{FR} FB_ALT:3,FB,FR
+7549595592,Frohlocke,Boulder,Austria,Ost,Scheitergraben Mitte,Block 2,{FR} FB:6A,FB,FR
+7549517184,Achtelfinale,Boulder,Austria,Ost,Scheitergraben Mitte,Block 1,{FR} FB:6B+,FB,FR
+7549517073,Vuvuzela,Boulder,Austria,Ost,Scheitergraben Mitte,Block 1,{FR} FB:6C,FB,FR
+5313820911,Tatzwurm,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:7/7+,7,UIAA
+5313820818,Teufelsriss,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:6+/7-,6+,UIAA
+5313820725,Die Zwille,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:7-,7-,UIAA
+5313820632,Kaspress,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:9-,9-,UIAA
+5313820539,Brachialästhet,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:8,8,UIAA
+5313820446,Die Nummer 1 vom Wienerwald,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:8+,8+,UIAA
+5313820353,Schatzkisterl,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:7,7,UIAA
+5313820254,Achbeiniges Ross,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:8+/9-,8+,UIAA
+5313820161,Spinnenbalkon,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:6+/7-,6+,UIAA
+5313820068,Buckelgrazer,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:6,6,UIAA
+5313819975,St.Corona,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:7-/7,7-,UIAA
+5313819882,Die Alten waren jung,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:6+/7-,6+,UIAA
+5313819789,Die Jungen werden alt,Sport,Austria,Ost,Lindkogel,Schatzkisterl,UIAA:7-/7,7-,UIAA
+3158239017,Äußerste Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:8-,8-,UIAA
+3158238918,Bumwandwächter,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7-,7-,UIAA
+3158238819,Gerissener Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7+,7+,UIAA
+3158238720,Bum ist alt,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:8-,8-,UIAA
+3158238621,Bum wird alt,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:8-/8,8-,UIAA
+3158238522,Opa bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7/7+,7,UIAA
+3158238423,Oma Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:8-/8,8-,UIAA
+3158238312,B(a)um im Rücken,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:5+/6-,5+,UIAA
+3158238204,BCCL (Bums Clean Climbing Lessons),Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:4-,4-,UIAA
+3158238099,Ängstlicher Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:4+,4+,UIAA
+3158238000,Bumstinatzi,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7,7,UIAA
+3158237901,Konglomaroder Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:6-,6-,UIAA
+3158237802,"""kleiner"" Bum steht auf",Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:6,6,UIAA
+3158237694,A Bum weniger,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:5+,5+,UIAA
+3158237589,Vergessener Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7/7+,7,UIAA
+3158237490,Bum packt zu,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7+,7+,UIAA
+3158237391,A fester Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:7+,7+,UIAA
+3158237292,Buminator,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:8-,8-,UIAA
+3158237193,Bums Metamorphose,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:6,6,UIAA
+3158237079,Halbstarker Bum,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:4+,4+,UIAA
+3158236980,Bumine,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:5,5,UIAA
+3158236881,Bum haben fertig,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:4+/5-,4+,UIAA
+3158236782,Der letzte Bumikaner,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:5-,5-,UIAA
+3158236653,Bum gibt auf,Sport,Austria,Ost,Bum Bum Wandl,Alpiner Bumhaufen,UIAA:5+,5+,UIAA
+3150445455,Der blaue Bum Bum,Boulder,Austria,Ost,Bum Bum Wandl,Bum Bum,{FB} 7A,7A,FB
+3150439248,Morbid Angel,Boulder,Austria,Ost,Bum Bum Wandl,Bum Bum,{FB} 6B+,6B+,FB
+3150439155,Arhurogonal,Boulder,Austria,Ost,Bum Bum Wandl,Bum Bum,{FB} 7A+,7A+,FB
+3158136567,Bum Knatterton,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:5,5,UIAA
+3158136477,Verrückter Bum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:9-/9,9-,UIAA
+3158136378,Böser Bum kreuzt,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7/7+,7,UIAA
+3158136279,Etappen Bum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:6+,6+,UIAA
+3158136180,Platten Bum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:6-,6-,UIAA
+3150438855,Nosexmonkrock,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7/7+,7,UIAA
+3158136081,Bumsfidel,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:8+,8+,UIAA
+3150438714,Hägar,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:8+/9-,8+,UIAA
+3158135982,A enga BumBum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:8-,8-,UIAA
+3150438573,Würstl mit Saft,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7+/8-,7+,UIAA
+3150438432,Neverdry,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:8+/9-,8+,UIAA
+454680126,Matschbirn,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7/7+,7,UIAA
+3150438294,Weg der Erstersteiger,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7-/7,7-,UIAA
+3150438180,Kleinod,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7-/7,7-,UIAA
+3158135883,Crazy Bums Love,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:6+,6+,UIAA
+3158135784,Bum bastisch,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:6+,6+,UIAA
+3158135685,Na Bum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:7+/8-,7+,UIAA
+3158135586,Bum putzt,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:5+,5+,UIAA
+3158135487,Mit ohne Bum,Sport,Austria,Ost,Bum Bum Wandl,Bum Bum,UIAA:4,4,UIAA
+3150439062,Billa Heute,Boulder,Austria,Ost,Bum Bum Wandl,Familien-Bum,{FB} 5C,5C,FB
+3150438969,Reinfall,Boulder,Austria,Ost,Bum Bum Wandl,Familien-Bum,{FB} 6A+,6A+,FB
+3158176401,Bum liebt Ildefonso,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:5,5,UIAA
+3158166867,Vergnügter Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:6-,6-,UIAA
+3158166726,Oh mein Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:6+,6+,UIAA
+3158166588,Bum untergriffig,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7,7,UIAA
+3158166447,Bum will´s wissen,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:8-,8-,UIAA
+3158166306,Bum-Katzerl,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:6/6+,6,UIAA
+3158166165,Bum-Fratzerl,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:5,5,UIAA
+3158166021,Null komma Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:5/5+,5,UIAA
+3158165892,"Bum, James Bum",Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7/7+,7,UIAA
+3158165799,´s letzte Bummerl,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:8-,8-,UIAA
+3158165709,Bärenstarker Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:9-,9-,UIAA
+3158165610,Bum-Sucht,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7,7,UIAA
+3158165520,Risiko und Bums,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7+,7+,UIAA
+3158165430,Kein os-Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:8,8,UIAA
+3158165331,Bum trainiert,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7+,7+,UIAA
+3158165232,Junior Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7+,7+,UIAA
+3158165118,Papa Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:7,7,UIAA
+3158164977,Mama Bum,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:5+,5+,UIAA
+3158164830,"Bum, der Anfänger",Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:4+,4+,UIAA
+3158164686,Kinder Boom,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:3-,3-,UIAA
+3158164542,Baby Boom,Sport,Austria,Ost,Bum Bum Wandl,Familien-Bum,UIAA:2-,2-,UIAA
+9284054883,Schokobanane,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:7,7,UIAA
+9284054766,Rumkugeln,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:6+,6+,UIAA
+9284041191,Weltladen,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:6+,6+,UIAA
+9284041080,Erdnuss,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:7-,7-,UIAA
+9284040963,Die Welt im Arsch,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8,8,UIAA
+9284040852,Krätzenkönig,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:9-,9-,UIAA
+9284040747,Da Oasch,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8+/9-,8+,UIAA
+9284040642,Gemischtwarenladen,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8+,8+,UIAA
+9284040537,Hohl in der Birn,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8,8,UIAA
+9284040348,Rauhnacht,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8-,8-,UIAA
+9284040243,Nebelhexe,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:7+,7+,UIAA
+9284011425,Nachthexe,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8,8,UIAA
+9284011314,Definator,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:8+,8+,UIAA
+9284011209,Benson Arizona,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:10-,10-,UIAA
+9284011104,Kriegskunst,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:9+/10-,9+,UIAA
+9284010999,Ragnar,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:6+,6+,UIAA
+9284010888,Feenschreck,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:6,6,UIAA
+9284010777,(B)Anal,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:4,4,UIAA
+9284010666,Welt-Furz,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:4+,4+,UIAA
+9284010555,Mittelerde,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:6-,6-,UIAA
+9284010444,Mitten im Leben,Sport,Austria,Ost,Arsch der Welt,Arsch der Welt Hauptwand,UIAA:5,5,UIAA
+454684140,Steinstark,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,{FB} 5B,5B,FB
+454684041,Tumult,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,{FB} 5B,5B,FB
+8032886307,Halfpipe,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB_ALT:3,3,FB_ALT
+8032886196,Fiertsledan,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:6C,6C,FB
+8032886091,Chelsea,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:6C+,6C+,FB
+8032885980,Nadelstreif,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:6B+,6B+,FB
+1232769459,Bigfoot,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,{FB} 5B,5B,FB
+8032885869,Unbekannt,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:7A+,7A+,FB
+8032885758,Frei schwebend,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:7A+,7A+,FB
+8032885647,Chefsache,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:7B,7B,FB
+1232769564,Personalbesprechung,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,{FB} 6A+,6A+,FB
+8032885536,Rubri,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Chelsea,FB:6B+,6B+,FB
+8029150101,Hell's around the corner,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7C+,7C+,FB
+8029149990,Pathfinder,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7B+,7B+,FB
+8029149879,Meshen,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6A+,6A+,FB
+8029149768,Tesla SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7C,7C,FB
+8029149663,Tesla,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6C+,6C+,FB
+8029149552,Chalkhouse,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7C+,7C+,FB
+1457175591,Stonehenge,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,{FB} 7A+,7A+,FB
+8029141833,Stein,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6B,6B,FB
+8029141722,Merken,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6C,6C,FB
+8029141611,Matador,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7C,7C,FB
+8029141500,Raum und Zeit,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7A,7A,FB
+8029141377,Bullshit und Party,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7C,7C,FB
+8029141266,MDMA Party,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6C,6C,FB
+454683942,MDMA,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,{FB} 6A,6A,FB
+8029141155,Do sitz i und schwitz i,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7B+,7B+,FB
+8029141044,Do hock i und frog i mi,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:7B,7B,FB
+1232769354,Maxi,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,{FB} 6A+,6A+,FB
+454683843,Hexi,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,{FB} 5B,5B,FB
+8029140933,Gela,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Tesla,FB:6C+,6C+,FB
+4481679255,Tupper Taliban,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Hoffnung,{FB} 6A,6A,FB
+4481679156,Prinzip Hoffnung,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Hoffnung,{FB} 6C,6C,FB
+8029127181,1911/10,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Häuseldach,FB:6B,6B,FB
+8029127070,Häuseldach,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Häuseldach,FB:6A,6A,FB
+8029126959,Häuseldachquergang,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Häuseldach,FB:5B,5B,FB
+1232769249,Mutzi Kotzi Bäh,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,{FB} 5B,5B,FB
+8032853880,Ragnarok,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:8A,8A,FB
+8032853775,Weisser Riese,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6B,6B,FB
+8032853670,No Exit,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6B,6B,FB
+8032847940,Übler Kübel,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6B,6B,FB
+8032847823,Generation X,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6B+,6B+,FB
+8032847712,Emanze SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:7A+/B,7A+,FB
+8032847607,Emanze,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6A,6A,FB
+8032847496,Fluch der roten Socken,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:7C,7C,FB
+8032847385,Basejumper,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:6C+,6C+,FB
+1232769144,Englischer Garten,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,{FB} 6B,6B,FB
+8032847274,Spuldisung von rechts,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:7B,7B,FB
+8032847163,Spuldisung,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:7A,7A,FB
+8032847052,Minas Morgul Var,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:8A,8A,FB
+8032846941,Minas Morgul,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Roten Socken,FB:7B+/C,7B+,FB
+8029118703,Unbekannt 2,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:5C,5C,FB
+1457902233,Am Ende von Nivea,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 5C,5C,FB
+8029109511,Unbekannt,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7A,7A,FB
+8029109400,Swing,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:6C,6C,FB
+8029109289,T-61,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7B,7B,FB
+8029109178,Umspannwerk,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7A,7A,FB
+8029109067,Keep the Pace,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7C+,7C+,FB
+1457153883,Uga Aga Iga,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 6C,6C,FB
+8029108956,Slow Mode SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7B+,7B+,FB
+8029108851,Slow Mode,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:6C,6C,FB
+8029120332,Stiegergasse Extension,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:8A+,8A+,FB
+8029120221,Stiegergasse direkt,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:8A,8A,FB
+8029108740,Stiegergasse 8b,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7C,7C,FB
+1457903178,Jabberwocky SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 8B,8B,FB
+1457903073,Jabberwocky,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 8A+,8A+,FB
+8140321515,Sidewinder (Stehstart),Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7A,7A,FB
+8029108629,Sidewinder,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7C+,7C+,FB
+1457902968,Energy Rush,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 8A,8A,FB
+454690980,Tarzan,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 6A+,6A+,FB
+1457902548,Bepanthen Plus,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 7B+,7B+,FB
+1457902653,Bepanthen SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 7C,7C,FB
+1457902443,Bepanthen,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 6C,6C,FB
+8029108524,Levitation,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,FB:7C+,7C+,FB
+1457902863,Die Ambivalenz von Gut und Böse,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 8B+,8B+,FB
+1457902338,Basesession,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 8A,8A,FB
+1457902758,Confusion,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Uga Aga Iga,{FB} 7B,7B,FB
+1457889984,Zeppelin Mila Kombination,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 7A,7A,FB
+1457888811,Zeppelin,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 6A+,6A+,FB
+1457885880,Walamiradalmai,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 7C,7C,FB
+1457884344,Totem,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 7C+,7C+,FB
+1457880621,Oxistischer Wahnsinn 8a,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 8A,8A,FB
+1457878188,Mila Superstar,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 6C,6C,FB
+1457876544,Kung fu Beta,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 7C,7C,FB
+1457195316,Totem SD,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Totem,{FB} 8A,8A,FB
+1457874639,2005er,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Pobacken,{FB} 6A+,6A+,FB
+8029053936,N.N.,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Pobacken,FB:6B,6B,FB
+8029053825,Traverse,Boulder,Austria,Ost,Boulder Hauptgebiet,Block Pobacken,FB:6A,6A,FB
+454683744,58-er,Boulder,Austria,Ost,Boulder Hauptgebiet,Block 58er,{FB} 6A,6A,FB
+454683645,Homa Glei,Boulder,Austria,Ost,Boulder Hauptgebiet,Block 58er,{FB} 5C,5C,FB
+454683546,Müllschlucker,Boulder,Austria,Ost,Boulder Hauptgebiet,Block 58er,{FB} FB_ALT:4,FB,FB
+3410157423,Dru,Sport,Austria,Ost,Helenental,Highway Star,{FB} 5B,5B,FB
+3410156613,The Fox,Sport,Austria,Ost,Helenental,Highway Star,{FB} 5C,5C,FB
+3410155494,Eiger Süd,Sport,Austria,Ost,Helenental,Highway Star,{FB} 5A,5A,FB
+3410154573,Highway Star,Sport,Austria,Ost,Helenental,Highway Star,{FB} 7B+,7B+,FB
+2086067070,Chainsaw Charlie,Boulder,Austria,Ost,Helenental,Chainsaw Charly,FB:6B+,6B+,FB
+2086066959,Durst,Boulder,Austria,Ost,Helenental,Chainsaw Charly,FB:4C,4C,FB
+2086066848,Mist,Boulder,Austria,Ost,Helenental,Chainsaw Charly,FB:5B,5B,FB
+7828721481,Wise Guy,Boulder,Austria,Ost,Helenental,Exstatischer Sturm,{FB} 6C+,6C+,FB
+7828718196,Extatischer Sturm,Boulder,Austria,Ost,Helenental,Exstatischer Sturm,{FB} 6C+,6C+,FB
+2676053076,Don´t Fly,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:7,7,UIAA
+2676053193,Testpiloten vortreten,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:9-/9,9-,UIAA
+2676053310,Empty Garden,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:7+,7+,UIAA
+2676053427,Reichtvariante,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:8+,8+,UIAA
+2676053550,Heavy Metal Pepi,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:7,7,UIAA
+2676053667,Gelber Steig,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:6,6,UIAA
+2676053784,Direkter Ausstieg,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:6+,6+,UIAA
+2676053901,Teufelspromenade,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:8-,8-,UIAA
+2676054018,Pensionistenfick,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:9-,9-,UIAA
+2676054141,Im Schatten der Burenwurst,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:9,9,UIAA
+2676054258,Efeulaus,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:6,6,UIAA
+2676054396,Artistensteig,Sport,Austria,Ost,Badener Kletterschule,Efeufels,UIAA:4+,4+,UIAA
+2676119400,Zum Drüberhau´n,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+2676119586,Wilde Mexikanerin,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2676119802,Mixer,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6,6,UIAA
+2676120018,Whiskey,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6,6,UIAA
+2676120159,Eiszunge,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+2676120282,Spezifisch Dynamisch,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:9-,9-,UIAA
+2676120399,Mord am dritten Finger,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:9-,9-,UIAA
+2676120600,Kaffee mit Kuchen,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8,8,UIAA
+2676120717,Kinderfest bei Pumuckl,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8+,8+,UIAA
+2676120840,Mon Amour Physique,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:9+/10-,9+,UIAA
+2676120960,Tolle Biene,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8+,8+,UIAA
+2676121077,Down under Show,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8/8+,8,UIAA
+2676121194,Heilfroh,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:4+,4+,UIAA
+2676121320,Black Out,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8-,8-,UIAA
+9078514344,Selbstmörderriss rechter Einstieg,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2323526082,Selbstmörderriss,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2323515969,Poltergeist,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+2643927306,Pinkel Flink,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7,7,UIAA
+2265382677,Dachrinne,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2676149232,Reinboltz,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+1434124632,Triplix,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+1281732684,Neuer R-Steig,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5-,5-,UIAA
+1281732801,Neue Blockrampe,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5-,5-,UIAA
+2676149349,Einstiegsvariante Efeusteig,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+1281885501,Neuer Efeusteig,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2676149472,Direkter Efeusteig,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+1434124749,Fingerhut,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+1281734571,Prügelknabe,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6,6,UIAA
+2676179088,8+/9-,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8+/9-,8+,UIAA
+2676179211,Excalibur,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:9-/9,9-,UIAA
+342456054,Neuer Diagonalriss,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+342455949,The Boxer,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8-,8-,UIAA
+342455844,Cheyenne,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:8-,8-,UIAA
+1281885612,Alte Verschneidung,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+1367796642,Wassermann,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+342455739,Wasserfall,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+1367796759,Hundewetter,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7,7,UIAA
+1367796876,Grrr,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7,7,UIAA
+1367796993,Pfarrer Assman,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+342455634,Toccata,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:7-,7-,UIAA
+1367797110,Vivaldi,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+2676186375,Andante,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5-,5-,UIAA
+2676186492,Ratte,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2676186609,Adagio,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5+,5+,UIAA
+2676186726,Lulu,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6,6,UIAA
+2676186843,Alte Führe,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:5,5,UIAA
+2676186960,Schas im Wald,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:6+,6+,UIAA
+2676184812,Für Anfänger,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:4,4,UIAA
+4217362335,Für Grobla,Sport,Austria,Ost,Badener Kletterschule,Breite Wand,UIAA:3,3,UIAA
+2676218412,Mausi,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4,4,UIAA
+2676218523,Hasi,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4+,4+,UIAA
+2676218634,Alfi,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5+,5+,UIAA
+2676218745,Ratti,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5-,5-,UIAA
+2676218856,Hildesteig,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4-,4-,UIAA
+2676218973,Variante,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+2676219090,Ballett Volta,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+1467342699,Luis Trenker Verschneidung,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+2676227406,Wolfsblut,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7+,7+,UIAA
+1467342810,Ingrid W. Verschneidung,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+2676234027,Adrenalin,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+2676234144,Slip Slide Away,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+2676234279,LBH-Riss,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7,7,UIAA
+2676234396,Müsliman,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+2676234519,Rechter Babykamin,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4-,4-,UIAA
+2676234636,Linker Babykamin,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4,4,UIAA
+2434874022,Alice in Wonderland,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8,8,UIAA
+916445139,Marantana,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+2434874133,Doctor and the maniac,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8,8,UIAA
+2676245535,Baumkamin,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4+,4+,UIAA
+1280049447,Hoffmannsteig,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5+,5+,UIAA
+2678224104,Mordsvergnügen,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+1337655147,Bügeleisen,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+1337655036,Neue Prommerlkante,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+1337654919,Prommerlkante,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+2678228355,Kaminverschneidung,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4,4,UIAA
+2678229498,Pilch,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6-,6-,UIAA
+1280049564,Kottan,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+1280049681,Teutscher Teutone,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+2434874244,Warrior,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+2434874355,Steckenpferd,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+1337654802,Hengst,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+1280049330,Palmkatzerl,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+1337654685,Spreizer,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+2678234631,Nachschulung,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5+,5+,UIAA
+2678234742,Frater Calidus,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+2678234514,Vinzenz,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6,6,UIAA
+2678234853,Cento,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:6+,6+,UIAA
+2678234964,Othello,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5,5,UIAA
+2678235075,Mus Musculus,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+2678235186,Grosser Überhang,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:7-,7-,UIAA
+2678235297,Quattro,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:4-,4-,UIAA
+2678235408,Flickflack,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:5,5,UIAA
+2678235519,Die Widerpenstige Zähmung,Sport,Austria,Ost,Badener Kletterschule,Trenkerwand,UIAA:8-,8-,UIAA
+3222405795,Detlev,Boulder,Austria,Ost,Badener Kletterschule,Detlef,FB:5C,5C,FB
+9077028552,Orange Crush,Sport,Austria,Ost,Helenental,Ötziturm,UIAA:9+,9+,UIAA
+9077026986,Saskari,Sport,Austria,Ost,Helenental,Ötziturm,UIAA:7-,7-,UIAA
+761473140,Ötzi,Boulder,Austria,Ost,Helenental,Ötziturm,FB:7A,7A,FB
+761472390,Aufwärmrunde,Boulder,Austria,Ost,Helenental,Ötziturm,FB:4B,4B,FB
+12501769,Numb,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5,5,UIAA
+12501817,Zooropa,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:8,8,UIAA
+9076805997,Plattige Schrofen 5,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:4-,4-,UIAA
+9076805904,Plattige Schrofen 4,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:4-,4-,UIAA
+9076805805,Plattige Schrofen 3,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3+,3+,UIAA
+9076805706,Plattige Schrofen 2,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:2,2,UIAA
+2566273032,Plattige Schrofen,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3,3,UIAA
+8553107544,Kinder 2,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3-,3-,UIAA
+8553103677,Kinder 1,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3-,3-,UIAA
+12501721,Waiting,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5,5,UIAA
+12501673,Blaupunkt,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5-,5-,UIAA
+12501625,Prinz,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:4+,4+,UIAA
+12501577,Kurz und Bündig,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5-,5-,UIAA
+12501529,Rozario,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5-,5-,UIAA
+12501481,The Fox,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:5-,5-,UIAA
+12501433,Streitspur,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:4+,4+,UIAA
+12501385,Plattiger Riss,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3+,3+,UIAA
+12501337,Weißer Pfeiler,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:4-,4-,UIAA
+12501289,Vergessener Grat,Sport,Austria,Ost,Helenental,Siegenfelder Platte,UIAA:3+,3+,UIAA
+1360466646,Uj,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:7-,7-,UIAA
+1360466535,Huj Huj,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:6-,6-,UIAA
+1360466424,Hit C100,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:7-,7-,UIAA
+1360466313,Hirosh,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:7+,7+,UIAA
+1360466202,Hiroshima,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:8-,8-,UIAA
+1360466091,Audreys Dance,Sport,Austria,Ost,Helenental,Brückenfels,UIAA:7+,7+,UIAA
+9080909319,Herziges Türmchen,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:7-,7-,UIAA
+9080909214,Dschungeldach,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:5+,5+,UIAA
+9080909109,... und die Kleinen verrecken,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:7,7,UIAA
+3429095565,Entbestialisierung,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:7,7,UIAA
+3429095472,Wilde Bestie,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:8,8,UIAA
+3429095379,Milde Bestie,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:7-,7-,UIAA
+3429095274,Die Klassische,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:6,6,UIAA
+3429095181,Kudlmudl,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:6,6,UIAA
+3429095076,Stolperstein,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:6,6,UIAA
+3429094983,Toprope-Verbot,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:7-,7-,UIAA
+3429094890,Nordwest,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:6-,6-,UIAA
+3429094797,Waldgnom,Sport,Austria,Ost,Helenental,Scharfeneck,UIAA:6,6,UIAA
